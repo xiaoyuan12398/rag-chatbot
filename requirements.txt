@@ -4,3 +4,4 @@ PyPDF2>=3.0.0
 python-docx>=0.8.11
 chromadb>=0.5.0
 dashscope>=1.14.0
+langchain-chroma>=0.1.0  # 新增这一行
